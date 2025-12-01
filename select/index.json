@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Mom & Dad",
+  "base_artist": "STUTS、ZOT on the WAVE",
+  "createdAt": "2025-12-01T07:41:06.116151Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bye Mom",
+      "artist": "Chris Janson",
+      "has_synced": true,
+      "path": "select/01_Bye_Mom_Chris_Janson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr. Mom",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/02_Mr._Mom_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dear. Mom",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/03_Dear._Mom_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Mom",
+      "artist": "Eminem",
+      "has_synced": true,
+      "path": "select/04_My_Mom_Eminem.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bombs Over Mom",
+      "artist": "Lost Sounds",
+      "has_synced": false,
+      "path": "select/05_Bombs_Over_Mom_Lost_Sounds.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mom Says",
+      "artist": "Low",
+      "has_synced": true,
+      "path": "select/06_Mom_Says_Low.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mom",
+      "artist": "Berlin",
+      "has_synced": false,
+      "path": "select/07_Mom_Berlin.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mom & Dad",
+      "artist": "Cub",
+      "has_synced": false,
+      "path": "select/08_Mom_&_Dad_Cub.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mom, The Video Broke",
+      "artist": "Syclops",
+      "has_synced": false,
+      "path": "select/09_Mom,_The_Video_Broke_Syclops.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stacy's Mom - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": true,
+      "path": "select/10_Stacy's_Mom_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stacy's Mom (Live)",
+      "artist": "Scott Bradlee's Postmodern Jukebox Casey Abrams",
+      "has_synced": true,
+      "path": "select/11_Stacy's_Mom_(Live)_Scott_Bradlee's_Postmodern_Jukebox_Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stacy's Mom",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": true,
+      "path": "select/12_Stacy's_Mom_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stacy’s Mom",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Casey Abrams",
+      "has_synced": true,
+      "path": "select/13_Stacy’s_Mom_Scott_Bradlee's_Postmodern_Jukebox_feat._Casey_Abrams.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stacy’s Mom",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/14_Stacy’s_Mom_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "R.C.'s Mom",
+      "artist": "The Dead Milkmen",
+      "has_synced": true,
+      "path": "select/15_R.C.'s_Mom_The_Dead_Milkmen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "RC's Mom",
+      "artist": "The Dead Milkmen",
+      "has_synced": true,
+      "path": "select/16_RC's_Mom_The_Dead_Milkmen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Moments",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Moments_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "moment",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_02_moment_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "MOMENT",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_03_MOMENT_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Moment",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_04_Moment_浜崎_あゆみ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "MOM",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_05_MOM_浜崎_あゆみ.txt"
+    }
+  ]
+}
